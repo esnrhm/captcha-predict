@@ -3,11 +3,13 @@
 # Detection Captcha text of University web by Keras
 
 <p align="center">
-  <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png">
+  <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png" / >
+  <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web1.png" />
 </p>
 <br>
-#sample off kaptcha dataset
-downlod kapcha image and save by predict name 
+
+# sample off kaptcha dataset
+    downlod kapcha image and save by predict name 
 
 <br>
 <p float="Center">
