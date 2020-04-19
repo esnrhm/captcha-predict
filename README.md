@@ -10,10 +10,10 @@
 
 
 <p float="Center">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg" width="15%" />
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg" width="15%" /> 
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9617.jpg" width="15%" />
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9974.jpg" width="15%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg" width="25%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg" width="25%" /> 
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9617.jpg" width="25%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9974.jpg" width="25%" />
 </p>
 
 # sample off kaptcha dataset
