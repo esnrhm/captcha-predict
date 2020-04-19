@@ -3,7 +3,7 @@
 # Detection Captcha text of University web by Keras
 
 <p align="center">
-  <img width="39" height="30%" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png" / >
+  <img width="39%" height="30%" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png" / >
   <img width="59%" height="30%" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web1.png" />
 </p>
 <br>
