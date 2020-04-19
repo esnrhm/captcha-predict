@@ -11,6 +11,8 @@
 # sample off kaptcha dataset
      
 <a href="http://rgraaieiucr.riau.ac.ir/loginb.aspx">http://rgraaieiucr.riau.ac.ir</a>
+
+download and save by predict text
 <br>
 
 <br>
