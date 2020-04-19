@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png" / >
-  <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web1.png" />
+  <img width="480" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web1.png" />
 </p>
 <br>
 
