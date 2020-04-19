@@ -31,7 +31,7 @@ download and save by predict text
 # pre_processing.py for image solving an cluster by image name 
 
 <p float="Center">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/solve.png" width="40%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/solve.png" width="70%" />
 </p>
 
 <br>
@@ -39,7 +39,7 @@ download and save by predict text
 # train_and_predict.py for train model and predict test data  
 
 <p float="Center">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/download.png" width="40%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/download.png" width="90%" />
 </p>
 
 <br>
