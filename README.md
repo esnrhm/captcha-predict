@@ -27,7 +27,9 @@ download and save by predict text
   <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9974.jpg" width="24%" />
 </p>
 
-
+<br>
+<br>
+<br>
 # pre_processing.py for image solving an cluster by image name 
 
 <p float="Center">
