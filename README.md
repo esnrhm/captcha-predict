@@ -9,7 +9,7 @@
 <br>
 
 # sample off kaptcha dataset
-    downlod kapcha image and save by predict name 
+    http://rgraaieiucr.riau.ac.ir/loginb.aspx 
 
 <br>
 <p float="Center">
