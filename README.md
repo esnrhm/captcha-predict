@@ -5,9 +5,9 @@
 <p align="center">
   <img width="300" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png">
 </p>
-![1](https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg)  |  ![2](https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg) | ![3](https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8374.jpg)  |  ![4](https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9617.jpg)
-<p float="left">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg" width="100" />
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg" width="100" /> 
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9617.jpg" width="100" />
+
+<p float="center">
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg" width="200" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg" width="200" /> 
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9617.jpg" width="200" />
 </p>
