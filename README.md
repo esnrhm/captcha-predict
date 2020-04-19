@@ -10,8 +10,11 @@
 
 # sample off kaptcha dataset
      
-<a href="http://rgraaieiucr.riau.ac.ir/loginb.aspx">دانشگاه آزاد رودهن</a>
+<a href="http://rgraaieiucr.riau.ac.ir/loginb.aspx">http://rgraaieiucr.riau.ac.ir</a>
 <br>
+
+<br>
+
 <p float="Center">
   <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8217.jpg" width="250" />
   <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/8292.jpg" width="250" /> 
