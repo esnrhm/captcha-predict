@@ -27,6 +27,10 @@ download and save by predict text
   <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/dataset/9974.jpg" width="24%" />
 </p>
 
+
+
+
+
 <br>
 <br>
 <br>
@@ -34,7 +38,7 @@ download and save by predict text
 # pre_processing.py for image solving an cluster by image name 
 
 <p float="Center">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/solve.png" width="60%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/solve.png" width="60%" />
 </p>
 
 <br>
@@ -42,9 +46,11 @@ download and save by predict text
 # train_and_predict.py for train model and predict test data  
 
 <p float="Center">
-  <img src="https://github.com/esnrhm/captcha-predict/blob/master/download.png" width="100%" />
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/download.png" width="100%" />
 </p>
 
 <br>
 
-
+<p float="Center">
+  <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/predict.png" width="60%" />
+</p>
