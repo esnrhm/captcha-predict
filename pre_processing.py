@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import cv2
 import numpy as np
@@ -65,10 +60,6 @@ def process_1(image):
 
 
 
-# In[ ]:
-
-
-
 
 counts={}
 k=0 #loading counter
@@ -104,7 +95,6 @@ print("\n\n\tFINISH")
     
 
 
-# In[ ]:
 
 
 fnames = [os.path.join(train_folder, fname) for fname in os.listdir(train_folder)]
@@ -118,7 +108,7 @@ for i in fnames:
         os.rename(captcha_image_files[j], captcha_image_files[j].replace("train","validation"))
 
 
-# In[ ]:
+
 
 
 
