@@ -1,4 +1,5 @@
-# captcha-predict
+# captcha-prediction
+
 
 # Detection Captcha text by CNN with keras and opencv
 
@@ -54,3 +55,7 @@ download and save by predict text
 <p float="Center">
   <img src="https://github.com/esnrhm/captcha-predict/blob/master/img/predict.png" width="60%" />
 </p>
+
+
+
+https://t.me/esnrhm
