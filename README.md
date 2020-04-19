@@ -28,9 +28,12 @@ download and save by predict text
 </p>
 
 
-#preprocess.py for image solving an cluster by image name 
+# pre_processing.py for image solving an cluster by image name 
 
+<br>
 
-#train_and_predict.py for train model and predict test data  
+# train_and_predict.py for train model and predict test data  
+
+<br>
 
 
