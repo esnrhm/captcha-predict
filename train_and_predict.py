@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 get_ipython().run_line_magic('matplotlib', 'inline')
 import warnings
@@ -22,7 +17,8 @@ from PIL import Image
 from keras.preprocessing import image
 
 
-# In[ ]:
+train_dir="D:\\dataset\\captcha\\train"
+validation_dir="D:\\dataset\\captcha\\validation"
 
 
 
@@ -83,17 +79,8 @@ class Plot(keras.callbacks.Callback):
         plt.grid()
         plt.legend()
         plt.show();
-    
-        
 
-        
-
-        
 plot = Plot()
-
-
-# In[ ]:
-
 
 
 model = models.Sequential()
@@ -117,11 +104,6 @@ model.compile(loss='categorical_crossentropy',
               metrics=['acc'])
 
 
-# In[ ]:
-
-
-train_dir="D:\\dataset\\captcha\\train"
-validation_dir="D:\\dataset\\captcha\\validation"
 
 batch_Size=32
 
@@ -142,10 +124,9 @@ test_datagen = ImageDataGenerator(rescale=1./255)
 train_generator = train_datagen.flow_from_directory(
         # This is the target directory
         train_dir,
-        # All images will be resized to 150x150
+        # All images will be resized to 32x32
         target_size=(32, 32),
         batch_size=batch_Size,
-        # Since we use binary_crossentropy loss, we need binary labels
         class_mode='categorical')
 
 validation_generator = test_datagen.flow_from_directory(
@@ -188,8 +169,8 @@ Model_Resault(history)
 
 Model_Resault(history)
 
-# model.save("kaptcha.h5")
-# model=models.load_model("kaptcha.h5")
+# model.save("captcha.h5")
+# model=models.load_model("captcha.h5")
 
 
 # In[ ]:
