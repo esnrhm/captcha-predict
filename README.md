@@ -1,6 +1,6 @@
 # captcha-predict
 
-# Detection Captcha text of University web by Keras
+# Detection Captcha text by CNN with keras and opencv
 
 <p align="center">
   <img width="39%" height="480" src="https://github.com/esnrhm/captcha-predict/blob/master/img/web.png" / >
