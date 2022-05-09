@@ -9,7 +9,7 @@
 </p>
 <br>
 
-# sample off kaptcha dataset
+# sample kaptcha dataset
 
 download and save by predict text
 <br>
